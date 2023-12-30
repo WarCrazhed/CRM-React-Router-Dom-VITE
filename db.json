@@ -50,14 +50,6 @@
       "telefono": "3320202020",
       "notas": "Solicitó un servicio",
       "id": 7
-    },
-    {
-      "nombre": "Sol",
-      "empresa": "Código con Juan",
-      "email": "sol@sol.com",
-      "telefono": "3320222022",
-      "notas": "Hola",
-      "id": 8
     }
   ]
 }
